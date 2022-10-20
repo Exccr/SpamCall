@@ -1,7 +1,7 @@
 <h1 align="center">Spam Call</h1>
-
+<center>
 <img src="https://c.tenor.com/aF0ipAtOk9cAAAAC/spy-x-family-anya.gif" alt="Axera" style="width: 50%; height: auto;" >
-
+</center>
 <p align="center">Spam Call sak kapommu per telfon beda nomer</p>
 
 ## Cara Pakai
@@ -12,6 +12,6 @@
 * cd SpamCall
 * php spam.php
 
-## Donate
+## Beli Api Key
 
-Dukung saya di <a href="https://trakteer.id/RudAz" target="_blank">Trakteer</a>
+<a href="https://fb.com/rud.az.9" target="_blank">Click me</a>
