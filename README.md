@@ -1,5 +1,5 @@
 <h1 align="center">Spam Call</h1>
-<p align="center">Spam Call sak kapommu per telfon beda nomer</p>
+<p align="center">Spam Call sak kapokmu per telfon beda nomer</p>
 
 ## Cara Pakai
 * $pkg update && pkg upgrade -y
