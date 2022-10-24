@@ -9,7 +9,7 @@ echo "
 \n\n";
 
 function spamCall($api, $nomer, $jumlah) {
-	$url = "https://spamertelpon.herokuapp.com/?key=". $api ."&nohp=". $nomer;
+	$url = "https://spamertelpon.herokuapp.com/v1?key=". $api ."&target=". $nomer;
 	$loop = 0;
 	while ($loop < $jumlah) {
 		$curl = curl_init();
