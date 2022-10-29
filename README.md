@@ -12,3 +12,6 @@
 ## Beli Api Key
 
 <a href="https://fb.com/rud.az.9" target="_blank">Click me</a>
+
+## Web Api Call
+<a href="https://spamertelpon.herokuapp.com/" target="_blank">Click me</a>
